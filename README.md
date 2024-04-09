@@ -1,6 +1,6 @@
 # Budz Fast Food
 
-Bienvenue dans le dépôt GitHub de Budz Fast Food ! 🍔🍟
+Bienvenue dans le dépôt GitHub de Budz Fast Food  ! 🍔🍟
 
 ## Description
 Budz Fast Food  spécialisé dans les hamburgers, les frites, les boissons et bien plus encore. Notre objectif est de fournir des repas délicieux et satisfaisants à nos clients tout en offrant une expérience agréable.
